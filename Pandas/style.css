@@ -1,0 +1,76 @@
+/*Body color*/
+body{
+  background-color: #9adaf2;
+}
+/*First section*/
+div.a-header{
+  color: #d997ff;
+  text-align: Center;
+  text-decoration: underline;
+  text-decoration-color: #f662f6;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+div.a-text{
+  text-align: center;
+  font-size: 17px;
+  font-family: serif;
+}
+div.a-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+}
+/*Second Section*/
+div.b-header{
+  color: #9377f5;
+  text-align: Center;
+  font-size: 22px;
+  font-family: sans-serif;
+}
+div.b-text{
+  text-align: center;
+  font-size: 17px;
+  font-family: serif;
+}
+/*Third section*/
+div.c-header{
+  color: #9377f5;
+  text-align: Center;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+div.c-text{
+  text-align: center;
+  font-size: 17px;
+  font-family: serif;
+  font-weight: bold;
+}
+div.ca-text{
+  text-align: justify;
+  font-size: 17px;
+  font-family: serif;
+}
+div.c-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+/*Fourth Section*/
+div.da-table{
+  text-align: center;
+  font-family: serif;
+}
+div.d-table{
+  display: flex;
+  justify-content: center;
+}
+div.dc-table{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+/*Made by danilo.zs*/
