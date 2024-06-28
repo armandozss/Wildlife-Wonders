@@ -1,0 +1,49 @@
+/*headers*/
+div.a-header{
+  color: #DB7093;
+  font-size: 25px;
+  font-family:inherit;
+  text-align: center;
+  text-decoration: underline
+}
+div.b-header{
+  color:#ff83d7;
+  font-size: 20px;
+  font-family: inherit;
+  text-align: inherit;
+  text-decoration: overline;
+}
+/*text*/
+div.text{
+  font-size: 20px;
+  font-family: serif;
+  text-align: justify;
+}
+/*list*/
+div.a-list{
+  color:#ff157c;
+}
+div.b-list{
+  font-size: 20px;
+  font-family: serif;
+  text-align: justify;
+}
+/*list*/
+div.polaroid{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:65%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 #000000, 0 6px 20px 0 #554f4f;
+  margin-bottom: 10px;
+}
+div.description{
+  text-align-last: center;
+  font-size: 30px;
+  color: #ff7fac;
+}
+div.container{
+  padding: 20px 20px;
+}
+/*Made by danilo.zs*/
