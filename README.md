@@ -6,6 +6,6 @@ For my second project, I chose pandas due to their intriguing nature. I digged i
 
 These projects demonstrate my progression in HTML and CSS. The foxes project was my initial effort, where I followed the 5 stages of ALM (application lifecycle management): planning, development, testing, deployment, and maintenance. Through valuable lessons that I learned from errors in my first project, I refined my skills in both programming and ALM for the development of my second project.
 
--All content and information between the two pages was taken from wikipedia.org.-
+-All information displayed between the two pages doesn't belong to me and I give credits to each webpage that did the research-
 
 Made by danilo.zs
