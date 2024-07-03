@@ -8,4 +8,7 @@ These projects demonstrate my progression in HTML and CSS. The foxes project was
 
 -All information displayed between the two pages doesn't belong to me and I give credits to each webpage that did the research-
 
+> - [Foxes](/Foxes)
+> - [Pandas](/Pandas)
+
 Made by danilo.zs
